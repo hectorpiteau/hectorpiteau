@@ -1,6 +1,6 @@
 # 💫 Hi there ! 
 
-I'm a student in final year at the engineering school ENSEIRB-MATMECA.<br>Working on computer vision and neural radiance fields.<br>Looking forward to collaborate and exchange in the domain of computer vision and machine learning.
+I was a student in final year at the engineering school ENSEIRB-MATMECA.<br>Working on computer vision and neural radiance fields.<br>Looking forward to collaborate and exchange in the domain of computer vision and machine learning.
 
 
 ## 🌐 Socials:
