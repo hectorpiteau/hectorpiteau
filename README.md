@@ -18,9 +18,5 @@ I'm a ML Software Engineer at Rokken since 2023. I was a student in final year a
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hectorpiteau&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hepiteau) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
