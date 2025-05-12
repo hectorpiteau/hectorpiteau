@@ -6,8 +6,12 @@ I'm a ML Software Engineer at Rokken since 2023. I was a student in final year a
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hectorpiteau) 
 
-# Math Stack:
+# Math Toolset:
 ![SVD](https://img.shields.io/badge/Singular&nbsp;Value&nbsp;Decomposition-F80000?style=for-the-badge&logoColor=white)
+![Levenberg–Marquardt Algorithm](https://img.shields.io/badge/Levenberg–Marquardt&nbsp;-F80000?style=for-the-badge&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-F80000?style=for-the-badge&logoColor=white)
+![Taylor Series](https://img.shields.io/badge/Taylor&nbsp;Series-F80000?style=for-the-badge&logoColor=white)
+![Gradient Descent](https://img.shields.io/badge/Gradient&nbsp;Descent-F80000?style=for-the-badge&logoColor=white)
 
 
 # 💻 Tech Stack:
