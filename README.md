@@ -24,7 +24,7 @@ I'm a ML Software Engineer at Rokken since 2023. I was a student in final year a
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%23A8C6DF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-%23FFB3B3.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-%23FFB3B3.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 ![C](https://img.shields.io/badge/c-%23A8C6DF.svg?style=for-the-badge&logo=c&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%2399CCCC.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23B8D0EB?style=for-the-badge&logo=python&logoColor=ffdd54)
